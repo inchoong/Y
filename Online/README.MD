@@ -1,8 +1,14 @@
-[MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) （源码已停止维护）多源的在线音乐播放器，基于 Meting
+[MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) （源码已停止维护）多源的在线音乐播放器
 ========
 MKOnlineMusicPlayer 是一款开源的基于 `Meting` 的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人网易云音乐播放列表同步等功能。
 
 前端界面参照 QQ 音乐网页版进行布局，同时采用了流行的响应式设计，无论是在PC端还是在手机端，均能给您带来原生 app 般的使用体验。
+
+- [MKOnlinePlayer v2.3 发布 & v2.32更新](https://mkblog.cn/1060/) | 孟坤博客
+
+- [MKOnlineMusicPlayer v2.0 发布 & v2.2更新](https://mkblog.cn/757/) | 孟坤博客
+
+- [无聊写了个在线音乐播放器](https://mkblog.cn/203/) | 孟坤博客
 
 ### 界面欣赏
 -----
